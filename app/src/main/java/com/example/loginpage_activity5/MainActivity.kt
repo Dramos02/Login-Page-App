@@ -36,5 +36,6 @@ class MainActivity : AppCompatActivity() {
         }
 
         //submitted by: Dominic O. Ramos 2BSIT2
+        //Copyrights © https://github.com/Dramos02
     }
 }
